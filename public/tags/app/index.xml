@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>App - Tag - Kevin&#39;s Blog</title>
+        <link>http://localhost:1313/tags/app/</link>
+        <description>App - Tag - Kevin&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/app/" rel="self" type="application/rss+xml" /><item>
+    <title>My Defaults App 2024</title>
+    <link>http://localhost:1313/posts/2024-02-23/</link>
+    <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/2024-02-23/</guid>
+    <description><![CDATA[App Defaults 网站展示了各位博主常用的 App，出于跟风的目的我也将自己平时常用的 App 记录了下来。所展示的 App 包含了移动平台，Win 平台和 Mac 平台。
+📩 Mail Client: Gmail Web
+📝 Notes: Notion
+🌏 Browser: Google Chrome,Firefox
+💬 Chat: Telegram,WeChat,Discord
+✅ To-Do: Apple Reminders
+🎵 Music: Apple Music
+🎙️ Podcasts: Apple Podcasts
+🔒 Password Management: Bitwarden
+📰 News: KT News
+☁️ Cloud file storage: iCloud+,Nutstore
+💻 Code Editor: Visual Studio Code
+👨🏻‍💻 Terminal: Terminal(Win),iTemr2(Mac)
+🎬 Movie discovery/tracking: DouBan
+📦 Database Management: Sequel Ace
+😿 Network Tools: Clash verge]]></description>
+</item>
+</channel>
+</rss>
