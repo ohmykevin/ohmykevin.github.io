@@ -36,6 +36,6 @@ jobs: #GitHub Action 中的任务
           #  personal_token参数值不要修改，github action 会自动引用
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: sshrc/sshrc.github.io
-          publish_branch: master
+          publish_branch: gh-page
           publish_dir: ./public
           commit_message: ${{github.event.head_commit.message }}
