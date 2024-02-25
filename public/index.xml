@@ -78,5 +78,12 @@
       <guid>http://localhost:1313/posts/2023-12-27/</guid>
       <description>十二月二十四号完成了二零二三的硕士研究生考试，至于考试的结果肯定是不理想的，也更不可能达到国家线的标准。这样的考试结果和我备考期间不够努力有直接关系，因此此片文章就是对备考这段时间的反思。 从三月份离职开始，就已经在制定考研的计划。我联系考研</description>
     </item>
+    <item>
+      <title>Archives</title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -8,16 +8,23 @@ theme="tophat"
 paginate = 5
 
 [menu]
-
   [[menu.main]]
     identifier = "home"
     name = "🏠Home"
     url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "📇Archives"
+    url = "/archives"
+    weight = 20
 
   [[menu.main]]
     identifier = "about"
-    name = "🙍‍♂️About"
+    name = "🙂About"
     url = "/about"
+    weight =30
 
 
 
