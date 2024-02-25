@@ -1,6 +1,8 @@
 # My Defaults App 2024
 
 
+![pexels-jonathan-robles-2388936.jpg](https://ossk.cc/file/dd00a98a50d7d5ac0babc.jpg)
+
 App Defaults 网站展示了各位博主常用的 App，出于跟风的目的我也将自己平时常用的 App 记录了下来。所展示的 App 包含了移动平台，Win 平台和 Mac 平台。
 
 📩 **Mail Client:** [Gmail Web](https://mail.google.com/)
