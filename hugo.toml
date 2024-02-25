@@ -1,13 +1,11 @@
-summaryLength = 120
-hasCJKLanguage = true
-relativeurls = true
-
-
-# baseURL = "https://ohmykevin.github.io/"
+baseURL = "https://ohmykevin.github.io/"
 languageCode = "en-us"
 title = "Kevin's Blog"
 theme="tophat"
 paginate = 5
+
+summaryLength = 120
+hasCJKLanguage = true
 
 [menu]
   [[menu.main]]
