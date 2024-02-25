@@ -3,7 +3,7 @@ hasCJKLanguage = true
 relativeurls = true
 
 
-baseURL = "https://ohmykevin.github.io/"
+# baseURL = "https://ohmykevin.github.io/"
 languageCode = "en-us"
 title = "Kevin's Blog"
 theme="tophat"
