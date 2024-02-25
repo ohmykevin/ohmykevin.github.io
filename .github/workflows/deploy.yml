@@ -13,7 +13,7 @@ jobs: #GitHub Action 中的任务
       - name: Checkout    	#检出最新代码到 GitHub Actions 的虚拟环境中
         uses: actions/checkout@v3 #GitHub Action 中的插件
         with:
-          submodules: recursive  # Fetch Hugo themes (true OR recursive)
+          submodules: false  # Fetch Hugo themes (true OR recursive)
           # `submodules` 值为 `true` 
           # 可以同步博客源仓库的子模块，即我们的主题模块。
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
