@@ -14,3 +14,7 @@ date: 2023-12-27
 ### 足迹
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PWQnzH1bUTWkl-N-9PWOt2rxh7NCtoo&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
+
+### 跑步记录
+
+<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/97879431/latest-rides/dee609330f29ce5fe2994d9fb22babb773b3a7f2'></iframe>
