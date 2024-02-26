@@ -16,7 +16,7 @@ hasCJKLanguage = true
 
   [[menu.main]]
     identifier = "archives"
-    name = "📇Archives"
+    name = "🗂️Archives"
     url = "/archives"
     weight = 20
 
