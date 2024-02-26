@@ -39,18 +39,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "post"
   url = "/post/"
 [[menu.main]]
-  name = "Categories"
-  weight = 30
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
-  name = "Tags"
-  weight = 40
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
   name = "About"
-  weight = 50
+  weight = 30
   identifier = "about"
   url = "/about/"
 
@@ -64,7 +54,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = "https://github.com/ohmykevin/ohmykevin.github.io"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Kevin's Blog"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["life,code,journal"]
   description = "生活随笔，随性而发"
 
@@ -72,21 +62,21 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   archivePaginate = 50
 
   # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
-  showArchiveCount = false
+  showArchiveCount = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
 
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
-  moreMeta = false
+  moreMeta = true
 
   # Syntax highlighting by highlight.js
-  highlightInClient = false
+  highlightInClient = true
 
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                            # 是否开启目录
-  autoCollapseToc = true   # Auto expand and collapse toc                              # 目录自动展开/折叠
+  autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
 
   # mathjax
