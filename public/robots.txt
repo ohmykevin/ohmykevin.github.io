@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: https://ohmykevin.github.io/sitemap.xml
