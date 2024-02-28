@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>App - 标签 - Kevin&#39;s Blog</title>
+        <link>https://ohmykevin.github.io/tags/app/</link>
+        <description>App - 标签 - Kevin&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>941104c@gmail.com (Kevin)</managingEditor>
+            <webMaster>941104c@gmail.com (Kevin)</webMaster><lastBuildDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ohmykevin.github.io/tags/app/" rel="self" type="application/rss+xml" /><item>
+    <title>My Defaults App 2024</title>
+    <link>https://ohmykevin.github.io/1709115307/</link>
+    <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Kevin</name>
+    </author><guid>https://ohmykevin.github.io/1709115307/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://ossk.cc/file/10d7636434bcdfd03d559.png" referrerpolicy="no-referrer">
+            </div>App Defaults 网站展示了各位博主常用的 App，出于跟风的目的我也将自己平时常用的 App 记录了下来。所展示的 App 包含了移动平台，Win 平台和 Mac 平台。 📩 Mail Client: Gmail Web]]></description>
+</item></channel>
+</rss>
